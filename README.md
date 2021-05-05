@@ -1,4 +1,4 @@
-# TOR_networkx
+# TOR hidden services network/graph Analysis using NetworkX
 Tor hidden services (.onion) analysis
 
 Today, we live in a world where we can access the Internet from virtually every device we own. However, as the Internet expands and becomes more available, so do the assaults on people who use it, by spying on and stealing their content. Tor is a volunteer-based anonymity network in which Tor network members can join to expand the network's scale and randomness. The Tor network is a network of relays that routes a client's traffic before delivering it to the client's final destination. When a client's traffic is traversing the Tor network, the origin of the traffic is no longer known, and the final destination is only known at the Tor network's exit point. Tor even encrypts device traffic as it is in the Tor network. It defends users from threats who spy on a network to attempt to intercept a user's information in this manner.
